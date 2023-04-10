@@ -237,10 +237,6 @@
 	bootph-pre-ram;
 };
 
-&hbmc {
-	status = "disabled";
-};
-
 &ospi0 {
 	bootph-pre-ram;
 
