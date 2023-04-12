@@ -152,7 +152,6 @@
 };
 
 &usb0 {
-	dr_mode = "host";
 	bootph-pre-ram;
 };
 
