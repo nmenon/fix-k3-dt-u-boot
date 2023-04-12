@@ -18,7 +18,7 @@
 	};
 };
 
-&cbass_main{
+&cbass_main {
 	bootph-pre-ram;
 	timer1: timer@2400000 {
 		compatible = "ti,omap5430-timer";
@@ -38,6 +38,9 @@
 
 &main_pmx0 {
 	bootph-pre-ram;
+
+	/* XXX: Upstream kernel TODO: send upstream */
+
 	main_i2c0_pins_default: main-i2c0-pins-default {
 		bootph-pre-ram;
 		pinctrl-single,pins = <
@@ -55,6 +58,10 @@
 };
 
 &main_uart0 {
+	bootph-pre-ram;
+};
+
+&main_uart0_pins_default {
 	bootph-pre-ram;
 };
 
