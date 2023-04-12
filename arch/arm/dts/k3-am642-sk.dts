@@ -439,7 +439,9 @@
 
 &cpsw3g {
 	pinctrl-names = "default";
-	pinctrl-0 = <&rgmii1_pins_default
+	/* XXX: U-boot HACK: mdio pinmux till MDIO DM conversion is done */
+	pinctrl-0 = <&mdio1_pins_default
+		     &rgmii1_pins_default
 		     &rgmii2_pins_default>;
 };
 
