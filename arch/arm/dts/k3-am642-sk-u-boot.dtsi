@@ -5,12 +5,7 @@
 
 / {
 	chosen {
-		stdout-path = "serial2:115200n8";
 		tick-timer = &timer1;
-	};
-
-	aliases {
-		mmc1 = &sdhci1;
 	};
 
 	memory@80000000 {
@@ -18,7 +13,7 @@
 	};
 };
 
-&cbass_main{
+&cbass_main {
 	bootph-pre-ram;
 
 	/* XXX: Upstream kernel TODO: send upstream */
