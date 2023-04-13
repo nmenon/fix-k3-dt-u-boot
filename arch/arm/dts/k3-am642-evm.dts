@@ -425,7 +425,8 @@
 
 &cpsw3g {
 	pinctrl-names = "default";
-	pinctrl-0 = <&rgmii1_pins_default
+	pinctrl-0 = <&mdio1_pins_default	/* HACK: as MDIO driver is not DM enabled */
+		     &rgmii1_pins_default
 		     &rgmii2_pins_default>;
 };
 
