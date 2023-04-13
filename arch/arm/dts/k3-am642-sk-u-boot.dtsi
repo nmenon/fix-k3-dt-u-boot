@@ -20,6 +20,8 @@
 
 &cbass_main{
 	bootph-pre-ram;
+
+	/* XXX: Upstream kernel TODO: send upstream */
 	timer1: timer@2400000 {
 		compatible = "ti,omap5430-timer";
 		reg = <0x0 0x2400000 0x0 0x80>;
