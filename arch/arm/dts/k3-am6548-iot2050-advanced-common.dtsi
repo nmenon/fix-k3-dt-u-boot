@@ -12,8 +12,6 @@
 /dts-v1/;
 
 #include "k3-am65-iot2050-common.dtsi"
-
-#include "k3-am65-iot2050-common-u-boot.dtsi"
 #include "k3-am65-iot2050-boot-image.dtsi"
 
 / {
@@ -52,8 +50,4 @@
 	non-removable;
 	ti,driver-strength-ohm = <50>;
 	disable-wp;
-};
-
-&main_uart0 {
-	status = "disabled";
 };

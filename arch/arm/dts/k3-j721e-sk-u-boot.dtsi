@@ -225,20 +225,12 @@
 	status = "disabled";
 };
 
-&mcu_i2c0_pins_default {
-	bootph-pre-ram;
-};
-
 &mcu_fss0_ospi0_pins_default {
 	bootph-pre-ram;
 };
 
 &fss {
 	bootph-pre-ram;
-};
-
-&hbmc {
-	status = "disabled";
 };
 
 &ospi0 {

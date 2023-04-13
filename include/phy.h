@@ -361,8 +361,15 @@ int get_phy_id(struct mii_dev *bus, int addr, int devad, u32 *phy_id);
  */
 static inline bool phy_interface_is_rgmii(struct phy_device *phydev)
 {
-	return phydev->interface >= PHY_INTERFACE_MODE_RGMII &&
-		phydev->interface <= PHY_INTERFACE_MODE_RGMII_TXID;
+	switch (phydev->interface) {
+	case PHY_INTERFACE_MODE_RGMII:
+	case PHY_INTERFACE_MODE_RGMII_ID:
+	case PHY_INTERFACE_MODE_RGMII_RXID:
+	case PHY_INTERFACE_MODE_RGMII_TXID:
+		return 1;
+	default:
+		return 0;
+	}
 }
 
 /**
@@ -373,8 +380,15 @@ static inline bool phy_interface_is_rgmii(struct phy_device *phydev)
  */
 static inline bool phy_interface_is_sgmii(struct phy_device *phydev)
 {
-	return phydev->interface >= PHY_INTERFACE_MODE_SGMII &&
-		phydev->interface <= PHY_INTERFACE_MODE_QSGMII;
+	switch (phydev->interface) {
+	case PHY_INTERFACE_MODE_SGMII:
+	case PHY_INTERFACE_MODE_QUSGMII:
+	case PHY_INTERFACE_MODE_USXGMII:
+	case PHY_INTERFACE_MODE_QSGMII:
+		return 1;
+	default:
+		return 0;
+	}
 }
 
 bool phy_interface_is_ncsi(void);

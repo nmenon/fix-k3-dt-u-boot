@@ -192,22 +192,6 @@
 	bootph-pre-ram;
 };
 
-&hbmc {
-	bootph-pre-ram;
-
-	flash@0,0 {
-		bootph-pre-ram;
-	};
-};
-
-&hbmc_mux {
-	bootph-pre-ram;
-};
-
-&wkup_gpio0 {
-	bootph-pre-ram;
-};
-
 &ospi0 {
 	bootph-pre-ram;
 
@@ -222,14 +206,6 @@
 	flash@0 {
 		bootph-pre-ram;
 	};
-};
-
-&mcu_fss0_hpb0_pins_default {
-	bootph-pre-ram;
-};
-
-&wkup_gpio_pins_default {
-	bootph-pre-ram;
 };
 
 &mcu_fss0_ospi1_pins_default {
@@ -264,10 +240,5 @@
 
 &serdes0_pcie_link {
 	assigned-clocks = <&serdes0 CDNS_SIERRA_PLL_CMNLC>;
-	assigned-clock-parents = <&wiz0_pll1_refclk>;
-};
-
-&serdes0_qsgmii_link {
-	assigned-clocks = <&serdes0 CDNS_SIERRA_PLL_CMNLC1>;
 	assigned-clock-parents = <&wiz0_pll1_refclk>;
 };
