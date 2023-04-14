@@ -5,7 +5,6 @@
 
 / {
 	chosen {
-		stdout-path = "serial2:115200n8";
 		tick-timer = &timer1;
 	};
 
@@ -14,8 +13,10 @@
 	};
 };
 
-&cbass_main{
+&cbass_main {
 	bootph-pre-ram;
+
+	/* XXX: Upstream kernel TODO: send upstream pinmux */
 	timer1: timer@2400000 {
 		compatible = "ti,omap5430-timer";
 		reg = <0x0 0x2400000 0x0 0x80>;
