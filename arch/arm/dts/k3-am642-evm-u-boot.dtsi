@@ -45,6 +45,10 @@
 	bootph-pre-ram;
 };
 
+&main_uart0_pins_default {
+	bootph-pre-ram;
+};
+
 &main_uart0 {
 	bootph-pre-ram;
 };
@@ -99,6 +103,18 @@
 };
 
 &sdhci1 {
+	bootph-pre-ram;
+};
+
+&mdio1_pins_default {
+	bootph-pre-ram;
+};
+
+&rgmii1_pins_default {
+	bootph-pre-ram;
+};
+
+&rgmii2_pins_default {
 	bootph-pre-ram;
 };
 
