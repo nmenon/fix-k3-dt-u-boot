@@ -37,6 +37,9 @@ config SYS_VENDOR
 config SYS_CONFIG_NAME
        default "am64x_evm"
 
+config ENV_SOURCE_FILE
+       default "am64x"
+
 source "board/ti/common/Kconfig"
 
 endif
