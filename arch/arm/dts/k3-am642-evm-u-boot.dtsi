@@ -49,20 +49,16 @@
 	bootph-pre-ram;
 };
 
+&main_usb0_pins_default {
+	bootph-pre-ram;
+};
+
 &usb0 {
 	dr_mode="peripheral";
 	bootph-pre-ram;
 };
 
 &usbss0 {
-	bootph-pre-ram;
-};
-
-&main_mmc1_pins_default {
-	bootph-pre-ram;
-};
-
-&main_usb0_pins_default {
 	bootph-pre-ram;
 };
 
@@ -95,6 +91,10 @@
 };
 
 &sdhci0 {
+	bootph-pre-ram;
+};
+
+&main_mmc1_pins_default {
 	bootph-pre-ram;
 };
 
