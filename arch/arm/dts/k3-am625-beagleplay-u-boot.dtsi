@@ -179,6 +179,9 @@
 	cpsw3g_new_phy0: ethernet-phy@0 {
 	     reg = <0>;
 	     bootph-pre-ram;
+		reset-gpios = <&main_gpio0 15 GPIO_ACTIVE_LOW>;
+		reset-assert-us = <25>;
+		reset-deassert-us = <60000>; /* T2 */
 	};
 };
 

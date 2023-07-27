@@ -277,6 +277,7 @@
 
 	rgmii1_pins_default: rgmii1-default-pins {
 		pinctrl-single,pins = <
+			AM62X_IOPAD(0x003c, PIN_INPUT, 7) /* (M25) GPMC0_AD0.GPIO0_15 */
 			AM62X_IOPAD(0x014c, PIN_INPUT, 0) /* (AB17) RGMII1_RD0 */
 			AM62X_IOPAD(0x0150, PIN_INPUT, 0) /* (AC17) RGMII1_RD1 */
 			AM62X_IOPAD(0x0154, PIN_INPUT, 0) /* (AB16) RGMII1_RD2 */
