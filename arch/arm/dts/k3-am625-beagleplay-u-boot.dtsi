@@ -16,6 +16,11 @@
 	memory@80000000 {
 		bootph-pre-ram;
 	};
+
+	aliases {
+		/delete-property/ ethernet1;
+		/delete-property/ mdio-gpio0;
+	};
 };
 
 &cbass_main {
@@ -152,12 +157,13 @@
 	bootph-pre-ram;
 };
 
-/* HACK:  We'll use cpsw-mdio instead */
+/* no support for mdio-gpio:  We'll use cpsw-mdio instead in u-boot */
 &mdio0 {
 	status = "disabled";
 };
 
 &mdio0_pins_default {
+	bootph-pre-ram;
 	pinctrl-single,pins = <
 		AM62X_IOPAD(0x0160, PIN_OUTPUT, 0) /* (AD24) MDIO0_MDC */
 		AM62X_IOPAD(0x015c, PIN_INPUT, 0) /* (AB22) MDIO0_MDIO */
@@ -172,21 +178,18 @@
 
 	cpsw3g_new_phy0: ethernet-phy@0 {
 	     reg = <0>;
-	};
-
-	cpsw3g_new_phy1: ethernet-phy@1 {
-	     reg = <1>;
+	     bootph-pre-ram;
 	};
 };
 
 &cpsw_port1 {
-        phy-mode = "rgmii-rxid";
         phy-handle = <&cpsw3g_new_phy0>;
+	bootph-pre-ram;
 };
 
 &cpsw_port2 {
-        phy-mode = "rmii";
-        phy-handle = <&cpsw3g_new_phy1>;
+	/* We wont support SPE port in U-boot */
+	status = "disabled";
 };
 
 #ifdef CONFIG_TARGET_AM625_A53_EVM
