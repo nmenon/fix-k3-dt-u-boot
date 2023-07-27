@@ -644,10 +644,12 @@ static struct phy_device *create_phy_by_mask(struct mii_dev *bus,
 	u32 phy_id = 0xffffffff;
 	bool is_c45;
 
+	printf("%s mask 0x%x devad 0x%x\n", __func__, phy_mask, devad);
 	while (phy_mask) {
 		int addr = ffs(phy_mask) - 1;
 		int r = get_phy_id(bus, addr, devad, &phy_id);
 
+		printf("trying..mask 0x%x addr 0x%x got id 0x%x\n", phy_mask, addr, r);
 		/*
 		 * If the PHY ID is flat 0 we ignore it.  There are C45 PHYs
 		 * that return all 0s for C22 reads (like Aquantia AQR112) and
