@@ -23,7 +23,7 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.3930348"
-     inkscape:cx="29.177419"
+     inkscape:cx="113.17302"
      inkscape:cy="100.5"
      inkscape:window-width="3440"
      inkscape:window-height="1416"
@@ -61,16 +61,16 @@
       <switch
          id="switch10">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 21px; margin-left: 81px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">X.509 Certificate</xhtml:div>
             </xhtml:div>
@@ -79,7 +79,7 @@
         <text
            x="110"
            y="25"
-           fill="rgb(0, 0, 0)"
+           fill="#000000"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -101,16 +101,16 @@
       <switch
          id="switch18">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 80px; margin-left: 41px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">R5<xhtml:br />
 u-boot-spl.bin</xhtml:div>
@@ -151,16 +151,16 @@ u-boot-spl.bin</xhtml:div>
       <switch
          id="switch28">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 155px; margin-left: 61px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">DTB 1..N</xhtml:div>
             </xhtml:div>
@@ -191,16 +191,16 @@ u-boot-spl.bin</xhtml:div>
       <switch
          id="switch36">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 125px; margin-left: 61px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">FIT Header</xhtml:div>
             </xhtml:div>
@@ -209,7 +209,7 @@ u-boot-spl.bin</xhtml:div>
         <text
            x="130"
            y="129"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
@@ -224,7 +224,7 @@ u-boot-spl.bin</xhtml:div>
        id="g42" />
     <a
        transform="translate(0,-5)"
-       xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+       xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems"
        target="_blank"
        id="a46">
       <text
