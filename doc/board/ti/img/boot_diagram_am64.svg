@@ -4,7 +4,7 @@
    width="706px"
    height="951px"
    viewBox="-0.5 -0.5 706 951"
-   id="svg46355"
+   id="svg356"
    sodipodi:docname="boot_diagram_am64.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -14,7 +14,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <sodipodi:namedview
-     id="namedview46357"
+     id="namedview358"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
@@ -22,19 +22,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1.4342797"
-     inkscape:cx="137.35117"
-     inkscape:cy="375.10117"
+     inkscape:zoom="2.8685594"
+     inkscape:cx="163.14809"
+     inkscape:cy="291.43548"
      inkscape:window-width="3440"
      inkscape:window-height="1416"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg46355" />
+     inkscape:current-layer="svg356" />
   <defs
-     id="defs46001" />
+     id="defs2" />
   <g
-     id="g46345">
+     id="g346">
     <rect
        x="235.5"
        y="50"
@@ -45,7 +45,7 @@
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46003" />
+       id="rect4" />
     <path
        d="M 304.25 90 L 304.25 940"
        fill="none"
@@ -53,23 +53,23 @@
        stroke-miterlimit="10"
        stroke-dasharray="3 3"
        pointer-events="all"
-       id="path46005" />
+       id="path6" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46011">
+       id="g12">
       <switch
-         id="switch46009">
+         id="switch10">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 136px; height: 1px; padding-top: 70px; margin-left: 237px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Cortex-R</xhtml:div>
             </xhtml:div>
@@ -82,7 +82,7 @@
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46007">Cortex-R</text>
+           id="text8">Cortex-R</text>
       </switch>
     </g>
     <rect
@@ -93,7 +93,7 @@
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46013" />
+       id="rect14" />
     <rect
        x="301"
        y="161"
@@ -102,23 +102,23 @@
        fill="#ffe6cc"
        stroke="#d79b00"
        pointer-events="all"
-       id="rect46015" />
+       id="rect16" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46021">
+       id="g22">
       <switch
-         id="switch46019">
+         id="switch20">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 176px; margin-left: 302px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">ROM</xhtml:div>
             </xhtml:div>
@@ -131,7 +131,7 @@
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46017">ROM</text>
+           id="text18">ROM</text>
       </switch>
     </g>
     <rect
@@ -142,7 +142,7 @@
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46023" />
+       id="rect24" />
     <rect
        x="302"
        y="306"
@@ -151,23 +151,23 @@
        fill="#d5e8d4"
        stroke="#82b366"
        pointer-events="all"
-       id="rect46025" />
+       id="rect26" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46031">
+       id="g32">
       <switch
-         id="switch46029">
+         id="switch30">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 104px; height: 1px; padding-top: 321px; margin-left: 303px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Cortex-R SPL</xhtml:div>
             </xhtml:div>
@@ -180,7 +180,7 @@
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46027">Cortex-R SPL</text>
+           id="text28">Cortex-R SPL</text>
       </switch>
     </g>
     <rect
@@ -193,23 +193,23 @@
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46033" />
+       id="rect34" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46039">
+       id="g40">
       <switch
-         id="switch46037">
+         id="switch38">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 210px; margin-left: 310px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Load and auth tiboot3.bin</xhtml:div>
             </xhtml:div>
@@ -217,20 +217,12 @@
         </foreignObject>
         <text
            x="354"
-           y="208"
-           fill="#000000"
+           y="214"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46035"><tspan
-             sodipodi:role="line"
-             id="tspan105526"
-             x="354"
-             y="208">Load and auth</tspan><tspan
-             sodipodi:role="line"
-             id="tspan105528"
-             x="354"
-             y="223">tiboot3.bin</tspan></text>
+           id="text36">Load and auth t...</text>
       </switch>
     </g>
     <rect
@@ -243,48 +235,37 @@
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46041" />
+       id="rect42" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46047">
+       id="g48">
       <switch
-         id="switch46045">
+         id="switch46">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 278px; margin-left: 310px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Load system<xhtml:br />
-
-
-
 config data</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
         <text
            x="354"
-           y="274"
-           fill="#000000"
+           y="282"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46043"><tspan
-             sodipodi:role="line"
-             id="tspan56302"
-             x="354"
-             y="274">Load system</tspan><tspan
-             sodipodi:role="line"
-             id="tspan56304"
-             x="354"
-             y="289">config data</tspan></text>
+           id="text44">Load system...</text>
       </switch>
     </g>
     <rect
@@ -297,23 +278,23 @@ config data</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46049" />
+       id="rect50" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46055">
+       id="g56">
       <switch
-         id="switch46053">
+         id="switch54">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 352px; margin-left: 311px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">DDR Config</xhtml:div>
             </xhtml:div>
@@ -326,7 +307,7 @@ config data</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46051">DDR Config</text>
+           id="text52">DDR Config</text>
       </switch>
     </g>
     <rect
@@ -339,23 +320,23 @@ config data</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46057" />
+       id="rect58" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46063">
+       id="g64">
       <switch
-         id="switch46061">
+         id="switch62">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 384px; margin-left: 311px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Load tispl.bin</xhtml:div>
             </xhtml:div>
@@ -368,7 +349,7 @@ config data</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46059">Load tispl.bin</text>
+           id="text60">Load tispl.bin</text>
       </switch>
     </g>
     <rect
@@ -381,23 +362,23 @@ config data</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46065" />
+       id="rect66" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46071">
+       id="g72">
       <switch
-         id="switch46069">
+         id="switch70">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 456px; margin-left: 311px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Start Cortex-A</xhtml:div>
             </xhtml:div>
@@ -410,7 +391,7 @@ config data</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46067">Start Cortex-A</text>
+           id="text68">Start Cortex-A</text>
       </switch>
     </g>
     <path
@@ -419,30 +400,30 @@ config data</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46073" />
+       id="path74" />
     <path
        d="M 134.12 456 L 141.12 452.5 L 139.37 456 L 141.12 459.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46075" />
+       id="path76" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46081">
+       id="g82">
       <switch
-         id="switch46079">
+         id="switch80">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 440px; margin-left: 257px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Start Cortex-A</xhtml:div>
             </xhtml:div>
@@ -451,11 +432,11 @@ config data</xhtml:div>
         <text
            x="257"
            y="443"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46077">Start Cortex-A</text>
+           id="text78">Start Cort...</text>
       </switch>
     </g>
     <path
@@ -464,56 +445,56 @@ config data</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46083" />
+       id="path84" />
     <path
        d="M 134.12 601 L 141.12 597.5 L 139.37 601 L 141.12 604.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46085" />
+       id="path86" />
     <path
        d="M 481 711 L 139.37 711"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46087" />
+       id="path88" />
     <path
        d="M 134.12 711 L 141.12 707.5 L 139.37 711 L 141.12 714.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46089" />
+       id="path90" />
     <path
        d="M 481 791 L 139.37 791"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46091" />
+       id="path92" />
     <path
        d="M 134.12 791 L 141.12 787.5 L 139.37 791 L 141.12 794.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46093" />
+       id="path94" />
     <path
        d="M 481 879 L 139.37 881.95"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46095" />
+       id="path96" />
     <path
        d="M 134.12 881.99 L 141.09 878.43 L 139.37 881.95 L 141.15 885.43 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46097" />
+       id="path98" />
     <rect
        x="437"
        y="50"
@@ -524,7 +505,7 @@ config data</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46099" />
+       id="rect100" />
     <path
        d="M 487 90 L 487 820"
        fill="none"
@@ -532,23 +513,23 @@ config data</xhtml:div>
        stroke-miterlimit="10"
        stroke-dasharray="3 3"
        pointer-events="all"
-       id="path46101" />
+       id="path102" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46107">
+       id="g108">
       <switch
-         id="switch46105">
+         id="switch106">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 70px; margin-left: 438px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Cortex-A</xhtml:div>
             </xhtml:div>
@@ -561,7 +542,7 @@ config data</xhtml:div>
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46103">Cortex-A</text>
+           id="text104">Cortex-A</text>
       </switch>
     </g>
     <rect
@@ -572,21 +553,21 @@ config data</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46109" />
+       id="rect110" />
     <path
        d="M 482 565 L 139.37 565"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46111" />
+       id="path112" />
     <path
        d="M 134.12 565 L 141.12 561.5 L 139.37 565 L 141.12 568.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46113" />
+       id="path114" />
     <rect
        x="577"
        y="50"
@@ -597,7 +578,7 @@ config data</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46115" />
+       id="rect116" />
     <path
        d="M 635.25 90 L 635.25 950"
        fill="none"
@@ -605,28 +586,25 @@ config data</xhtml:div>
        stroke-miterlimit="10"
        stroke-dasharray="3 3"
        pointer-events="all"
-       id="path46117" />
+       id="path118" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46123">
+       id="g124">
       <switch
-         id="switch46121">
+         id="switch122">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 115px; height: 1px; padding-top: 70px; margin-left: 578px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">CortexR/M<xhtml:br />
-
-
-
+                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Cortex-R/M<xhtml:br />
 C6x/C7x</xhtml:div>
             </xhtml:div>
           </xhtml:div>
@@ -634,15 +612,11 @@ C6x/C7x</xhtml:div>
         <text
            x="635"
            y="74"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46119"><tspan
-             sodipodi:role="line"
-             id="tspan52824"
-             x="635"
-             y="74">CortexR/M</tspan></text>
+           id="text120">Cortex-R/M...</text>
       </switch>
     </g>
     <rect
@@ -653,7 +627,7 @@ C6x/C7x</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46125" />
+       id="rect126" />
     <rect
        x="633"
        y="912"
@@ -662,25 +636,25 @@ C6x/C7x</xhtml:div>
        fill="#e1d5e7"
        stroke="#9673a6"
        pointer-events="all"
-       id="rect46127" />
+       id="rect128" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46133">
+       id="g134">
       <switch
-         id="switch46131">
+         id="switch132">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 927px; margin-left: 634px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Aux F/w</xhtml:div>
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Aux f/w</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
@@ -691,7 +665,7 @@ C6x/C7x</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46129">Aux F/w</text>
+           id="text130">Aux f/w</text>
       </switch>
     </g>
     <rect
@@ -704,7 +678,7 @@ C6x/C7x</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46135" />
+       id="rect136" />
     <path
        d="M 127 90 L 127 940"
        fill="none"
@@ -712,23 +686,23 @@ C6x/C7x</xhtml:div>
        stroke-miterlimit="10"
        stroke-dasharray="3 3"
        pointer-events="all"
-       id="path46137" />
+       id="path138" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46143">
+       id="g144">
       <switch
-         id="switch46141">
+         id="switch142">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 70px; margin-left: 78px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">TIFS/DMSC</xhtml:div>
             </xhtml:div>
@@ -741,7 +715,7 @@ C6x/C7x</xhtml:div>
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46139">TIFS/DMSC</text>
+           id="text140">TIFS/DMSC</text>
       </switch>
     </g>
     <rect
@@ -752,7 +726,7 @@ C6x/C7x</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46145" />
+       id="rect146" />
     <rect
        x="79"
        y="132"
@@ -761,23 +735,23 @@ C6x/C7x</xhtml:div>
        fill="#ffe6cc"
        stroke="#d79b00"
        pointer-events="all"
-       id="rect46147" />
+       id="rect148" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46153">
+       id="g154">
       <switch
-         id="switch46151">
+         id="switch152">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 147px; margin-left: 80px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">ROM</xhtml:div>
             </xhtml:div>
@@ -790,7 +764,7 @@ C6x/C7x</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46149">ROM</text>
+           id="text150">ROM</text>
       </switch>
     </g>
     <rect
@@ -801,39 +775,39 @@ C6x/C7x</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46155" />
+       id="rect156" />
     <path
        d="M 297 238 L 138.37 238"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46157" />
+       id="path158" />
     <path
        d="M 133.12 238 L 140.12 234.5 L 138.37 238 L 140.12 241.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46159" />
+       id="path160" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46165">
+       id="g166">
       <switch
-         id="switch46163">
+         id="switch164">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 230px; margin-left: 267px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
-                 style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">start SYSFW</xhtml:div>
+                 style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Start SYSFW</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
@@ -844,7 +818,7 @@ C6x/C7x</xhtml:div>
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46161">start SYSFW</text>
+           id="text162">Start SYSFW</text>
       </switch>
     </g>
     <rect
@@ -855,23 +829,23 @@ C6x/C7x</xhtml:div>
        fill="#f8cecc"
        stroke="#b85450"
        pointer-events="all"
-       id="rect46167" />
+       id="rect168" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46173">
+       id="g174">
       <switch
-         id="switch46171">
+         id="switch172">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 48px; height: 1px; padding-top: 270px; margin-left: 81px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">SYSFW</xhtml:div>
             </xhtml:div>
@@ -884,7 +858,7 @@ C6x/C7x</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46169">SYSFW</text>
+           id="text170">SYSFW</text>
       </switch>
     </g>
     <path
@@ -893,51 +867,43 @@ C6x/C7x</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46175" />
+       id="path176" />
     <path
        d="M 178 0 L 178 14 L 192 14"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46177" />
+       id="path178" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46183">
+       id="g184">
       <switch
-         id="switch46181">
+         id="switch182">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 128px; height: 1px; padding-top: 1px; margin-left: 63px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Security enclave Boot Processor</xhtml:div>
+                 style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Security Enclave Boot Processor</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
         <text
            x="127"
            y="13"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46179"><tspan
-             sodipodi:role="line"
-             id="tspan47920"
-             x="127"
-             y="13">Security enclave</tspan><tspan
-             sodipodi:role="line"
-             id="tspan47922"
-             x="127"
-             y="28">Processor</tspan></text>
+           id="text180">Security Enclave Boot...</text>
       </switch>
     </g>
     <path
@@ -946,35 +912,32 @@ C6x/C7x</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46185" />
+       id="path186" />
     <path
        d="M 361 0 L 361 14 L 375 14"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46187" />
+       id="path188" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46193">
+       id="g194">
       <switch
-         id="switch46191">
+         id="switch192">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 132px; height: 1px; padding-top: 1px; margin-left: 242px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Boot Loader <xhtml:br />
-
-
-
 Processor</xhtml:div>
             </xhtml:div>
           </xhtml:div>
@@ -982,19 +945,11 @@ Processor</xhtml:div>
         <text
            x="308"
            y="13"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46189"><tspan
-             sodipodi:role="line"
-             id="tspan49172"
-             x="308"
-             y="13">Boot Loader</tspan><tspan
-             sodipodi:role="line"
-             id="tspan49174"
-             x="308"
-             y="28">Processor</tspan></text>
+           id="text190">Boot Loader...</text>
       </switch>
     </g>
     <path
@@ -1003,30 +958,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46195" />
+       id="path196" />
     <path
        d="M 523 0 L 523 14 L 537 14"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46197" />
+       id="path198" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46203">
+       id="g204">
       <switch
-         id="switch46201">
+         id="switch202">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 1px; margin-left: 438px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Main CPU</xhtml:div>
             </xhtml:div>
@@ -1039,7 +994,7 @@ Processor</xhtml:div>
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46199">Main CPU</text>
+           id="text200">Main CPU</text>
       </switch>
     </g>
     <path
@@ -1048,35 +1003,32 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46205" />
+       id="path206" />
     <path
        d="M 663 0 L 663 14 L 677 14"
        fill="none"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46207" />
+       id="path208" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46213">
+       id="g214">
       <switch
-         id="switch46211">
+         id="switch212">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 1px; margin-left: 578px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Verdana; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Auxiliary<xhtml:br />
-
-
-
 Processor</xhtml:div>
             </xhtml:div>
           </xhtml:div>
@@ -1084,19 +1036,11 @@ Processor</xhtml:div>
         <text
            x="627"
            y="13"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Verdana"
            font-size="12px"
            text-anchor="middle"
-           id="text46209"><tspan
-             sodipodi:role="line"
-             id="tspan51564"
-             x="627"
-             y="13">Auxiliary</tspan><tspan
-             sodipodi:role="line"
-             id="tspan51566"
-             x="627"
-             y="28">Processor</tspan></text>
+           id="text210">Auxiliary...</text>
       </switch>
     </g>
     <path
@@ -1106,30 +1050,30 @@ Processor</xhtml:div>
        stroke-miterlimit="10"
        stroke-dasharray="12 12"
        pointer-events="stroke"
-       id="path46215" />
+       id="path216" />
     <path
        d="M 125.88 120 L 118.88 123.5 L 120.63 120 L 118.88 116.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46217" />
+       id="path218" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46223">
+       id="g224">
       <switch
-         id="switch46221">
+         id="switch222">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 118px; margin-left: 9px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: left;">
+               style="box-sizing: border-box; font-size: 0px; text-align: left;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">H/w Seq: Reset rls</xhtml:div>
             </xhtml:div>
@@ -1138,10 +1082,10 @@ Processor</xhtml:div>
         <text
            x="9"
            y="118"
-           fill="rgb(0, 0, 0)"
+           fill="#000000"
            font-family="Helvetica"
            font-size="11px"
-           id="text46219">H/w Seq: Reset rls</text>
+           id="text220">H/w Seq: Reset rls</text>
       </switch>
     </g>
     <path
@@ -1150,30 +1094,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46225" />
+       id="path226" />
     <path
        d="M 133.12 199.98 L 140.12 196.48 L 138.37 199.98 L 140.12 203.48 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46227" />
+       id="path228" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46233">
+       id="g234">
       <switch
-         id="switch46231">
+         id="switch232">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 190px; margin-left: 257px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Auth tiboot3.bin</xhtml:div>
             </xhtml:div>
@@ -1182,11 +1126,11 @@ Processor</xhtml:div>
         <text
            x="257"
            y="193"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46229">Auth tiboot3.bin</text>
+           id="text230">Auth tiboo...</text>
       </switch>
     </g>
     <path
@@ -1195,30 +1139,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46235" />
+       id="path236" />
     <path
        d="M 302.63 159 L 295.63 162.5 L 297.38 159 L 295.63 155.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46237" />
+       id="path238" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46243">
+       id="g244">
       <switch
-         id="switch46241">
+         id="switch242">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 150px; margin-left: 177px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Release Reset</xhtml:div>
             </xhtml:div>
@@ -1227,11 +1171,11 @@ Processor</xhtml:div>
         <text
            x="177"
            y="153"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46239">Release Reset</text>
+           id="text240">Release Re...</text>
       </switch>
     </g>
     <path
@@ -1240,30 +1184,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46245" />
+       id="path246" />
     <path
        d="M 134.12 281.01 L 141.14 277.55 L 139.37 281.04 L 141.1 284.55 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46247" />
+       id="path248" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46253">
+       id="g254">
       <switch
-         id="switch46251">
+         id="switch252">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 270px; margin-left: 237px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Load system config data</xhtml:div>
             </xhtml:div>
@@ -1272,11 +1216,11 @@ Processor</xhtml:div>
         <text
            x="237"
            y="273"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46249">Load system config data</text>
+           id="text250">Load syste...</text>
       </switch>
     </g>
     <rect
@@ -1289,23 +1233,23 @@ Processor</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46255" />
+       id="rect256" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46261">
+       id="g262">
       <switch
-         id="switch46259">
+         id="switch260">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 88px; height: 1px; padding-top: 246px; margin-left: 310px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Start SYSFW</xhtml:div>
             </xhtml:div>
@@ -1318,7 +1262,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46257">Start SYSFW</text>
+           id="text258">Start SYSFW</text>
       </switch>
     </g>
     <path
@@ -1327,30 +1271,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46263" />
+       id="path264" />
     <path
        d="M 481.88 511 L 474.88 514.5 L 476.63 511 L 474.88 507.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46265" />
+       id="path266" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46271">
+       id="g272">
       <switch
-         id="switch46269">
+         id="switch270">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 500px; margin-left: 177px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Release Reset</xhtml:div>
             </xhtml:div>
@@ -1359,11 +1303,11 @@ Processor</xhtml:div>
         <text
            x="177"
            y="503"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46267">Release Reset</text>
+           id="text268">Release Re...</text>
       </switch>
     </g>
     <rect
@@ -1374,23 +1318,23 @@ Processor</xhtml:div>
        fill="#d5e8d4"
        stroke="#82b366"
        pointer-events="all"
-       id="rect46273" />
+       id="rect274" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46279">
+       id="g280">
       <switch
-         id="switch46277">
+         id="switch278">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 528px; margin-left: 485px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">TF-A </xhtml:div>
             </xhtml:div>
@@ -1403,7 +1347,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46275">TF-A </text>
+           id="text276">TF-A </text>
       </switch>
     </g>
     <rect
@@ -1414,7 +1358,7 @@ Processor</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46281" />
+       id="rect282" />
     <rect
        x="484"
        y="584"
@@ -1423,23 +1367,23 @@ Processor</xhtml:div>
        fill="#d5e8d4"
        stroke="#82b366"
        pointer-events="all"
-       id="rect46283" />
+       id="rect284" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46289">
+       id="g290">
       <switch
-         id="switch46287">
+         id="switch288">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 70px; height: 1px; padding-top: 599px; margin-left: 485px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">OP-TEE</xhtml:div>
             </xhtml:div>
@@ -1452,7 +1396,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46285">OP-TEE</text>
+           id="text286">OP-TEE</text>
       </switch>
     </g>
     <rect
@@ -1463,7 +1407,7 @@ Processor</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46291" />
+       id="rect292" />
     <rect
        x="484"
        y="665"
@@ -1472,23 +1416,23 @@ Processor</xhtml:div>
        fill="#d5e8d4"
        stroke="#82b366"
        pointer-events="all"
-       id="rect46293" />
+       id="rect294" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46299">
+       id="g300">
       <switch
-         id="switch46297">
+         id="switch298">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 81px; height: 1px; padding-top: 680px; margin-left: 485px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Cortex A SPL</xhtml:div>
             </xhtml:div>
@@ -1501,7 +1445,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46295">Cortex A SPL</text>
+           id="text296">Cortex A SPL</text>
       </switch>
     </g>
     <rect
@@ -1512,7 +1456,7 @@ Processor</xhtml:div>
        fill="rgb(255, 255, 255)"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46301" />
+       id="rect302" />
     <rect
        x="484"
        y="751"
@@ -1521,25 +1465,25 @@ Processor</xhtml:div>
        fill="#d5e8d4"
        stroke="#82b366"
        pointer-events="all"
-       id="rect46303" />
+       id="rect304" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46309">
+       id="g310">
       <switch
-         id="switch46307">
+         id="switch308">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 81px; height: 1px; padding-top: 766px; margin-left: 485px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
-                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">U-boot</xhtml:div>
+                 style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">U-Boot</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
@@ -1550,7 +1494,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46305">U-boot</text>
+           id="text306">U-Boot</text>
       </switch>
     </g>
     <rect
@@ -1563,23 +1507,23 @@ Processor</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46311" />
+       id="rect312" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46317">
+       id="g318">
       <switch
-         id="switch46315">
+         id="switch316">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 101px; height: 1px; padding-top: 716px; margin-left: 493px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Load u-boot.img</xhtml:div>
             </xhtml:div>
@@ -1592,7 +1536,7 @@ Processor</xhtml:div>
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46313">Load u-boot.img</text>
+           id="text314">Load u-boot.img</text>
       </switch>
     </g>
     <rect
@@ -1605,48 +1549,37 @@ Processor</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46319" />
+       id="rect320" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46325">
+       id="g326">
       <switch
-         id="switch46323">
+         id="switch324">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 101px; height: 1px; padding-top: 836px; margin-left: 493px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Load Aux core f/w<xhtml:br />
-
-
-
 (optional)</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
         <text
            x="544"
-           y="834"
-           fill="#000000"
+           y="840"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46321"><tspan
-             sodipodi:role="line"
-             id="tspan64850"
-             x="544"
-             y="834">Load Aux core f/w</tspan><tspan
-             sodipodi:role="line"
-             id="tspan64852"
-             x="544"
-             y="849">(optional)</tspan></text>
+           id="text322">Load Aux core f/w...</text>
       </switch>
     </g>
     <rect
@@ -1659,48 +1592,37 @@ Processor</xhtml:div>
        fill="none"
        stroke="rgb(0, 0, 0)"
        pointer-events="all"
-       id="rect46327" />
+       id="rect328" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46333">
+       id="g334">
       <switch
-         id="switch46331">
+         id="switch332">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 101px; height: 1px; padding-top: 876px; margin-left: 493px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); ">
               <xhtml:div
                  style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Start Aux core<xhtml:br />
-
-
-
 (optional)</xhtml:div>
             </xhtml:div>
           </xhtml:div>
         </foreignObject>
         <text
            x="544"
-           y="874"
-           fill="#000000"
+           y="880"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="12px"
            text-anchor="middle"
-           id="text46329"><tspan
-             sodipodi:role="line"
-             id="tspan65904"
-             x="544"
-             y="874">Start Aux core</tspan><tspan
-             sodipodi:role="line"
-             id="tspan65906"
-             x="544"
-             y="889">(optional)</tspan></text>
+           id="text330">Start Aux core...</text>
       </switch>
     </g>
     <path
@@ -1709,30 +1631,30 @@ Processor</xhtml:div>
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="stroke"
-       id="path46335" />
+       id="path336" />
     <path
        d="M 633.63 909 L 626.63 912.5 L 628.38 909 L 626.63 905.5 Z"
        fill="rgb(0, 0, 0)"
        stroke="rgb(0, 0, 0)"
        stroke-miterlimit="10"
        pointer-events="all"
-       id="path46337" />
+       id="path338" />
     <g
        transform="translate(-0.5 -0.5)"
-       id="g46343">
+       id="g344">
       <switch
-         id="switch46341">
+         id="switch342">
         <foreignObject
+           style="overflow: visible; text-align: left;"
            pointer-events="none"
            width="100%"
            height="100%"
-           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-           style="overflow: visible; text-align: left;">
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xhtml:div
              style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 900px; margin-left: 203px;">
             <xhtml:div
-               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); "
-               style="box-sizing: border-box; font-size: 0px; text-align: center;">
+               style="box-sizing: border-box; font-size: 0px; text-align: center;"
+               data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); ">
               <xhtml:div
                  style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Release Reset</xhtml:div>
             </xhtml:div>
@@ -1741,30 +1663,30 @@ Processor</xhtml:div>
         <text
            x="203"
            y="903"
-           fill="#000000"
+           fill="rgb(0, 0, 0)"
            font-family="Helvetica"
            font-size="11px"
            text-anchor="middle"
-           id="text46339">Release Reset</text>
+           id="text340">Release Re...</text>
       </switch>
     </g>
   </g>
   <switch
-     id="switch46353">
+     id="switch354">
     <g
        requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
-       id="g46347" />
+       id="g348" />
     <a
        transform="translate(0,-5)"
-       xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+       xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems"
        target="_blank"
-       id="a46351">
+       id="a352">
       <text
          text-anchor="middle"
          font-size="10px"
          x="50%"
          y="100%"
-         id="text46349">Text is not SVG - cannot display</text>
+         id="text350">Text is not SVG - cannot display</text>
     </a>
   </switch>
 </svg>
