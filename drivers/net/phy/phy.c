@@ -564,7 +564,6 @@ struct phy_device *phy_device_create(struct mii_dev *bus, int addr,
 {
 	struct phy_device *dev;
 
-	printf("%s\n", __func__);
 	/*
 	 * We allocate the device, and initialize the
 	 * default values
@@ -599,12 +598,8 @@ struct phy_device *phy_device_create(struct mii_dev *bus, int addr,
 	}
 
 	if (addr >= 0 && addr < PHY_MAX_ADDR && phy_id != PHY_FIXED_ID)
-	{
-		printf("storing phy to phymap addr 0x%x\n", addr);
 		bus->phymap[addr] = dev;
-	}
 
-	printf("%s phy addr 0x%x id 0x%x probed fine\n", __func__, addr, phy_id);
 	return dev;
 }
 
@@ -649,12 +644,10 @@ static struct phy_device *create_phy_by_mask(struct mii_dev *bus,
 	u32 phy_id = 0xffffffff;
 	bool is_c45;
 
-	printf("%s mask 0x%x devad 0x%x\n", __func__, phy_mask, devad);
 	while (phy_mask) {
 		int addr = ffs(phy_mask) - 1;
 		int r = get_phy_id(bus, addr, devad, &phy_id);
 
-		printf("trying..mask 0x%x addr 0x%x got id 0x%x\n", phy_mask, addr, r);
 		/*
 		 * If the PHY ID is flat 0 we ignore it.  There are C45 PHYs
 		 * that return all 0s for C22 reads (like Aquantia AQR112) and
@@ -669,8 +662,6 @@ static struct phy_device *create_phy_by_mask(struct mii_dev *bus,
 			is_c45 = (devad == MDIO_DEVAD_NONE) ? false : true;
 			return phy_device_create(bus, addr, phy_id, is_c45);
 		}
-		else
-			printf("mostly f's ignoring\n");
 next:
 		phy_mask &= ~(1 << addr);
 	}
@@ -708,13 +699,10 @@ static struct phy_device *get_phy_device_by_mask(struct mii_dev *bus,
 	};
 	int i, devad_cnt;
 
-	printf("%s\n", __func__);
 	devad_cnt = sizeof(devad)/sizeof(int);
 	phydev = search_for_existing_phy(bus, phy_mask);
 	if (phydev)
 		return phydev;
-
-	printf("%s no existing phys looking for new\n", __func__);
 	/* try different access clauses  */
 	for (i = 0; i < devad_cnt; i++) {
 		phydev = create_phy_by_mask(bus, phy_mask, devad[i]);
@@ -724,14 +712,14 @@ static struct phy_device *get_phy_device_by_mask(struct mii_dev *bus,
 			return phydev;
 	}
 
-	printf("\n%s PHY: ", bus->name);
+	debug("\n%s PHY: ", bus->name);
 	while (phy_mask) {
 		int addr = ffs(phy_mask) - 1;
 
-		printf("%d ", addr);
+		debug("%d ", addr);
 		phy_mask &= ~(1 << addr);
 	}
-	printf("not found\n");
+	debug("not found\n");
 
 	return NULL;
 }
@@ -813,7 +801,6 @@ int miiphy_reset(const char *devname, unsigned char addr)
 
 struct phy_device *phy_find_by_mask(struct mii_dev *bus, uint phy_mask)
 {
-	printf("%s\n", __func__);
 	/* Reset the bus */
 	if (bus->reset) {
 		bus->reset(bus);
@@ -916,7 +903,6 @@ struct phy_device *phy_connect(struct mii_dev *bus, int addr,
 	struct phy_device *phydev = NULL;
 	uint mask = (addr >= 0) ? (1 << addr) : 0xffffffff;
 
-	printf("%s phy addr %d\n", __func__, addr);
 #ifdef CONFIG_PHY_FIXED
 	phydev = phy_connect_fixed(bus, dev);
 #endif
