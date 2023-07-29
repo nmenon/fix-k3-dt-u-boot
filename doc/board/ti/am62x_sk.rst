@@ -246,3 +246,19 @@ https://www.ti.com/lit/pdf/spruiv7 under the `Boot Mode Pins` section.
      - 11001010
 
 For SW2 and SW1, the switch state in the "ON" position = 1.
+
+Debugging U-boot
+----------------
+
+See :ref:`Common Debugging environment - openOCD<k3_rst_refer_openocd>`: for
+detailed setup information.
+
+.. include::  k3.rst
+    :start-after: .. k3_rst_include_start_openocd_connect_xds110
+    :end-before: .. k3_rst_include_end_openocd_connect_xds110
+
+To start OpenOCD to connect to the board
+
+.. code-block:: bash
+
+  openocd -f board/ti_am625evm.cfg

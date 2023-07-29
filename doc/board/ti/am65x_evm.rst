@@ -287,3 +287,19 @@ artifacts needed to the device:
  sb --ymodem tispl.bin > $MAIN_DEV < $MAIN_DEV
  sleep 1
  sb --xmodem u-boot.img > $MAIN_DEV < $MAIN_DEV
+
+Debugging U-boot
+----------------
+
+See :ref:`Common Debugging environment - openOCD<k3_rst_refer_openocd>`: for
+detailed setup information.
+
+.. include::  k3.rst
+    :start-after: .. k3_rst_include_start_openocd_connect_xds110
+    :end-before: .. k3_rst_include_end_openocd_connect_xds110
+
+To start OpenOCD to connect to the board
+
+.. code-block:: bash
+
+  openocd -f board/ti_am654evm.cfg
