@@ -1,8 +1,8 @@
 .. SPDX-License-Identifier: GPL-2.0+ OR BSD-3-Clause
 .. sectionauthor:: Tom Rini <trini@konsulko.com>
 
-AM335x Generation
-=================
+AM335x Generation Platform
+==========================
 
 Summary
 -------

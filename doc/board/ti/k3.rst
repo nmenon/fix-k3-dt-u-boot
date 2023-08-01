@@ -1,8 +1,8 @@
 .. SPDX-License-Identifier: GPL-2.0+ OR BSD-3-Clause
 .. sectionauthor:: Bryan Brattlof <bb@ti.com>
 
-K3 Generation
-=============
+K3 Generation Platforms
+=======================
 
 Summary
 -------
@@ -24,8 +24,8 @@ on the same SoC.  These functional domains are typically called the:
 For a more detailed view of what peripherals are attached to each
 domain, consult the device specific documentation.
 
-K3 Based SoCs
--------------
+K3 SoC Based Platforms
+----------------------
 
 .. toctree::
    :maxdepth: 1
