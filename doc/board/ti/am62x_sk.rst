@@ -67,6 +67,8 @@ Build procedure:
 
 |See generated documentation for this section as it uses includes|
 
+.. Try 2: See generated documentation for this section as this uses includes.
+
 .. include::  ../ti/k3.rst
     :start-after: .. k3_rst_include_start_common_env_vars_desc
     :end-before: .. k3_rst_include_end_common_env_vars_desc
