@@ -1,6 +1,8 @@
 .. SPDX-License-Identifier: GPL-2.0+ OR BSD-3-Clause
 .. sectionauthor:: Vignesh Raghavendra <vigneshr@ti.com>
 
+.. |See generated documentation for this section as it uses includes| replace:: \
+
 AM62 Platforms
 ===============
 
@@ -62,6 +64,8 @@ Sources:
 Build procedure:
 ----------------
 0. Setup the environment variables:
+
+|See generated documentation for this section as it uses includes|
 
 .. include::  ../ti/k3.rst
     :start-after: .. k3_rst_include_start_common_env_vars_desc
