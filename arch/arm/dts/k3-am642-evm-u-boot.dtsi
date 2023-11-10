@@ -15,24 +15,8 @@
 	};
 };
 
-&cbass_main {
-	bootph-all;
-};
-
 &main_timer0 {
-	bootph-all;
 	clock-frequency = <200000000>;
-};
-
-&main_conf {
-	bootph-all;
-	chipid@14 {
-		bootph-all;
-	};
-};
-
-&main_pmx0 {
-	bootph-all;
 };
 
 &main_i2c0_pins_default {
@@ -72,32 +56,11 @@
 	bootph-all;
 };
 
-&dmss {
-	bootph-all;
-};
-
-&secure_proxy_main {
-	bootph-all;
-};
-
 &dmsc {
-	bootph-all;
 	k3_sysreset: sysreset-controller {
 		compatible = "ti,sci-sysreset";
 		bootph-all;
 	};
-};
-
-&k3_pds {
-	bootph-all;
-};
-
-&k3_clks {
-	bootph-all;
-};
-
-&k3_reset {
-	bootph-all;
 };
 
 &sdhci0 {
