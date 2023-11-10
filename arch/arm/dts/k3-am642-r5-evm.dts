@@ -40,10 +40,6 @@
 	};
 };
 
-&vtt_supply {
-	bootph-pre-ram;
-};
-
 &cbass_main {
 	sysctrler: sysctrler {
 		compatible = "ti,am654-system-controller";
@@ -62,10 +58,6 @@
 	ti,secure-host;
 };
 
-&vtt_supply {
-	bootph-pre-ram;
-};
-
 &memorycontroller {
 	vtt-supply = <&vtt_supply>;
 };
@@ -78,10 +70,6 @@
 &sdhci1 {
 	clocks = <&clk_200mhz>;
 	clock-names = "clk_xin";
-};
-
-&main_gpio0 {
-	bootph-pre-ram;
 };
 
 /* UART is initialized before SYSFW is started

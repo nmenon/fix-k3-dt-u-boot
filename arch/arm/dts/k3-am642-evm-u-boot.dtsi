@@ -9,50 +9,17 @@
 	chosen {
 		tick-timer = &main_timer0;
 	};
-
-	memory@80000000 {
-		bootph-all;
-	};
 };
 
 &main_timer0 {
 	clock-frequency = <200000000>;
 };
 
-&main_i2c0_pins_default {
-	bootph-all;
-};
-
-&main_i2c0 {
-	bootph-all;
-};
-
-&main_uart0_pins_default {
-	bootph-all;
-};
-
-&main_uart0 {
-	bootph-all;
-};
-
-&main_usb0_pins_default {
-	bootph-all;
-};
-
 &usb0 {
 	dr_mode="peripheral";
-	bootph-all;
-};
-
-&usbss0 {
-	bootph-all;
 };
 
 &main_mmc1_pins_default {
-	bootph-all;
-};
-
-&main_usb0_pins_default {
 	bootph-all;
 };
 
@@ -68,10 +35,6 @@
 };
 
 &main_mmc1_pins_default {
-	bootph-all;
-};
-
-&sdhci1 {
 	bootph-all;
 };
 
@@ -103,42 +66,6 @@
 	      <0x00 0x48430000 0x00 0x4000>;
 	reg-names = "gcfg", "rchanrt", "tchanrt", "ringrt", "cfg",
 		    "tchan", "rchan", "rflow";
-	bootph-all;
-};
-
-&mdio1_pins_default {
-	bootph-all;
-};
-
-&cpsw3g_mdio {
-	bootph-all;
-};
-
-&cpsw3g_phy0 {
-	bootph-all;
-};
-
-&rgmii1_pins_default {
-	bootph-all;
-};
-
-&rgmii2_pins_default {
-	bootph-all;
-};
-
-&cpsw3g {
-	bootph-all;
-
-	ethernet-ports {
-		bootph-all;
-	};
-};
-
-&phy_gmii_sel {
-	bootph-all;
-};
-
-&cpsw_port1 {
 	bootph-all;
 };
 
